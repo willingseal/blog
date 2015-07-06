@@ -5,7 +5,7 @@
 程序员面试时考算法是个很头疼的问题，但还是不得不看一下。排序分为内部排序和外部排序，内部排序指待排序的记录在内存中，外部排序的记录数量很大，以至于内存放不下而放在外存中，排序过程需要访问外存。这里仅介绍内部排序，包括插入排序、交换排序、选择排序、归并排序、基数排序。
 
 
-1 插入排序
+##1 插入排序
 
 1.1直接插入（straight insertion sort）
 
@@ -80,7 +80,7 @@ void shellsort(int r[100],int n){
     }
  }
 </pre>
-2 交换排序
+##2 交换排序
 
 2.1冒泡排序（bubble sort）
 
@@ -137,7 +137,7 @@ void quickSort(int a[],int numsize){
 }
 
 </pre>
-3 选择排序
+##3 选择排序
 
 3.1 简单选择排序（simple selection sort）
 
@@ -218,7 +218,7 @@ void heapSort(int r[100],int n){
 
 参考网址：<a title="白话经典算法系列之七 堆与堆排序" href="http://blog.csdn.net/morewindows/article/details/6709644">白话经典算法系列之七 堆与堆排序</a>
 
-4 归并排序（merge sort）
+##4 归并排序（merge sort）
 
 4.1两路归并排序
 
@@ -313,7 +313,7 @@ int main()
 
 该算法的总的时间复杂度是是 O(n log2n)，但是该算法需要 O(n) 的辅助空间，空间复杂度很大，是 O(n).
 
-5 基数排序（radix sort）
+##5 基数排序（radix sort）
 算法思路：
 
 基数排序可以采用LSD（Least significant digital）或者MSD（Most significant digital），LSD的排序由键值的最右边开始，MSD从最左边开始。
