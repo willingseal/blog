@@ -47,7 +47,7 @@ TCP的运输连接有三个阶段，即连接建立、数据传送、连接释�
 
 <img class=" aligncenter" src="http://7u2k5i.com1.z0.glb.clouddn.com/coderyi_tcp4.png" alt="tcp4" width="523" height="370" />
 
-##应用层
+应用层
 
 第五层是应用层，FTP（对应应用，文件传送）、HTTP（对应应用万维网）、TELNET（远程终端接入）、SMTP（电子邮件）使用的传输层协议都是TCP，DNS（名字转换）、TFTP（文件传送）、专用协议（IP电话、流式媒体通信）等使用的传输层协议都是UDP。
 以上就是计算机网络的五层协议。
