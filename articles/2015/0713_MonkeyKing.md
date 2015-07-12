@@ -55,4 +55,4 @@
 
 预告片地址：[《西游记之大圣归来》](http://movie.douban.com/trailer/179848/#content)
 
-文章未经授权不能有商业用途，转载请付原文链接：
+文章未经授权不能有商业用途，转载请付原文链接：https://github.com/coderyi/blog/blob/master/articles/2015/0713_MonkeyKing.md
