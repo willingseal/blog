@@ -1,4 +1,4 @@
-#coderyi-blog
+##blog
 
 ###2015
 [python数据类型](https://github.com/coderyi/blog/blob/master/articles/2015/0805_python3_datatype.md)
