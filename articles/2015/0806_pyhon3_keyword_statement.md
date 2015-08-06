@@ -98,6 +98,7 @@ d=a or c
 print(d) #1
 </pre>
 
+[解压可迭代对象赋值给多个变量](http://python3-cookbook.readthedocs.org/zh_CN/latest/c01/p02_unpack_elements_from_iterables.html):介绍了比较高级的*号赋值，值得看一下
 
 [Python学习笔记（八）：Python语句简介、赋值、表达式和打印](http://blog.csdn.net/mathboylinlin/article/details/9380567)
 
