@@ -1,7 +1,9 @@
 ##blog
 
 ###2015
-[python3的关键字和语句](https://github.com/coderyi/blog/blob/master/articles/2015/0806_pyhon3_keyword_statement.md)
+[python3的函数](https://github.com/coderyi/blog/blob/master/articles/2015/0806_2_python3_function.md)
+
+[python3的关键字和语句](https://github.com/coderyi/blog/blob/master/articles/2015/0806_1_pyhon3_keyword_statement.md)
 
 [python数据类型](https://github.com/coderyi/blog/blob/master/articles/2015/0805_python3_datatype.md)
 
