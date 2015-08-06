@@ -1,6 +1,8 @@
 ##blog
 
 ###2015
+[python3的关键字和语句](https://github.com/coderyi/blog/blob/master/articles/2015/0806_pyhon3_keyword_statement.md)
+
 [python数据类型](https://github.com/coderyi/blog/blob/master/articles/2015/0805_python3_datatype.md)
 
 [大圣归来一些感想](https://github.com/coderyi/blog/blob/master/articles/2015/0713_MonkeyKing.md)
