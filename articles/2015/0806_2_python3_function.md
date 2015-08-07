@@ -92,8 +92,18 @@ str(obj) 得到obj的字符串描述
 
 list(seq) 把一个sequence转换成一个list
    
+判断一个变量是否是某个类型可以用isinstance()判断：
+<pre>
+>>> isinstance(a, list)
+True
+</pre>
+判断一个类是否有某个属性
+<pre>
+print('hasattr(obj, \'x\') =', hasattr(obj, 'x')) # 有属性'x'吗？
+</pre>
+仅仅把属性和方法列出来是不够的，配合getattr()、setattr()以及hasattr()，我们可以直接操作一个对象的状态
 
-
+[一个类的常用内置方法](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431866385235335917b66049448ab14a499afd5b24db000)
 
 [liaoxuefeng-function](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014316784721058975e02b46cc45cb836bb0827607738d000)
 
