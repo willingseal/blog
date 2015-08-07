@@ -1,13 +1,14 @@
 ##blog
 
 ###2015
-[python3的面向对象编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_python3_object_oriented.md)
+note:[python3的函数式编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_2_python3_functional_programming)
+note:[python3的面向对象编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_1_python3_object_oriented.md)
 
-[python3的函数](https://github.com/coderyi/blog/blob/master/articles/2015/0806_2_python3_function.md)
+note:[python3的函数](https://github.com/coderyi/blog/blob/master/articles/2015/0806_2_python3_function.md)
 
-[python3的关键字和语句](https://github.com/coderyi/blog/blob/master/articles/2015/0806_1_pyhon3_keyword_statement.md)
+note:[python3的关键字和语句](https://github.com/coderyi/blog/blob/master/articles/2015/0806_1_python3_keyword_statement.md)
 
-[python数据类型](https://github.com/coderyi/blog/blob/master/articles/2015/0805_python3_datatype.md)
+note:[python3的数据类型](https://github.com/coderyi/blog/blob/master/articles/2015/0805_python3_datatype.md)
 
 [大圣归来一些感想](https://github.com/coderyi/blog/blob/master/articles/2015/0713_MonkeyKing.md)
 
