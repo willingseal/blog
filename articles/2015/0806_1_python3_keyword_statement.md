@@ -132,7 +132,28 @@ with open("/tmp/foo.txt") as file:
     data = file.read()  
 </pre>
 
+######for...in
+<pre>
+    for element in [1, 2, 3]:
 
+        print element
+
+    for element in (1, 2, 3):
+
+        print element
+
+    for key in {'one':1, 'two':2}:
+
+        print key
+
+    for char in "123":
+
+        print char
+
+    for line in open("myfile.txt"):
+
+        print line
+</pre>
 ######yield 关键字   
 <pre>
 def fab(max):   
