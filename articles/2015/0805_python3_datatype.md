@@ -1,4 +1,4 @@
-#python数据类型
+#python3数据类型
 空（None） ， [布尔类型（Boolean）](#Boolean)，[整型(Int)](#Int)，[浮点型(Float)](#Float)，[字符串(String)](#String)，[列表(List)](#List)，[元组(Tuple)](#Tuple)，[集合(Set)](#Set)，[字典(Dict)](#Dict)
 ###<a id="Boolean"></a>布尔类型（Boolean）
 布尔型，在Python2中是没有布尔型的，它用数字0表示False，用1表示True。到Python3中，把True和False定义成关键字了，但它们的值还是1和0，它们可以和数字相加。
