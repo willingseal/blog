@@ -2,6 +2,7 @@
 
 ###2015
 note:[python3的函数式编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_2_python3_functional_programming)
+
 note:[python3的面向对象编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_1_python3_object_oriented.md)
 
 note:[python3的函数](https://github.com/coderyi/blog/blob/master/articles/2015/0806_2_python3_function.md)
