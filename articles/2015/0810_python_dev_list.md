@@ -14,7 +14,17 @@
 
 [Python 入门指南](http://www.pythondoc.com/pythontutorial3/)
 
+###社区
 
+[python官方社区](https://www.python.org/),有源码
+
+[v2ex的python讨论区](https://www.v2ex.com/go/python)
+[python的邮件讨论组](https://groups.google.com/forum/#!forum/python-cn)
+
+
+[知乎python](http://www.zhihu.com/topic/19552832)
+
+[python4cn](http://www.simple-is-better.com/)
 
 
 
@@ -58,19 +68,9 @@
 
 [Python爬虫学习系列教程](http://cuiqingcai.com/1052.html)
 
-###爬虫详细教程
+######爬虫详细教程
 [Python3爬虫（妹子图）](http://www.jianshu.com/p/a5f1df34d184)
-###社区
 
-[python官方社区](https://www.python.org/),有源码
-
-[v2ex的python讨论区](https://www.v2ex.com/go/python)
-[python的邮件讨论组](https://groups.google.com/forum/#!forum/python-cn)
-
-
-[知乎python](http://www.zhihu.com/topic/19552832)
-
-[python4cn](http://www.simple-is-better.com/)
 
 
 ###博客以及开发者列表
