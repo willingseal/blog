@@ -1,9 +1,9 @@
 ##blog
 
 ###2015
-[python dev list](https://github.com/coderyi/blog/blob/master/articles/2015/0810_python_dev_list)
+[python dev list](https://github.com/coderyi/blog/blob/master/articles/2015/0810_python_dev_list.md)
 
-note:[python3的函数式编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_2_python3_functional_programming)
+note:[python3的函数式编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_2_python3_functional_programming.md)
 
 note:[python3的面向对象编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_1_python3_object_oriented.md)
 
