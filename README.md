@@ -58,6 +58,8 @@ note:[python3的数据类型](https://github.com/coderyi/blog/blob/master/articl
 [计算机网络的五层协议体系](https://github.com/coderyi/blog/blob/master/articles/2014/0706_network.md)
 
 
+######博客内容未经本人授权，禁止任何商业用途。
+######友情提醒，尽量不要fork，欢迎对我的blog提交修改，转载请保留原文链接以及作者署名。
 
 
 
