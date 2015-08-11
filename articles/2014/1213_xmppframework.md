@@ -355,4 +355,4 @@ XMPPRoomDelegate的其他代理方法
 }</pre>
 
 
-如果想要学习更多XMPPFramework的东西，我以前看过一个比较全面的demo，地址：<a href="http://code4app.com/ios/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%BE%A4%E8%81%8A%E7%B3%BB%E7%BB%9F1.2/535651f2933bf0647d8b570f" title="即时通讯群聊系统">即时通讯群聊系统</a><!--more-->
+如果想要学习更多XMPPFramework的东西，我以前看过一个比较全面的demo，地址：<a href="http://code4app.com/ios/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%E7%BE%A4%E8%81%8A%E7%B3%BB%E7%BB%9F1.2/535651f2933bf0647d8b570f" title="即时通讯群聊系统">即时通讯群聊系统</a>
