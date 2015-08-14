@@ -1,6 +1,10 @@
 ##blog
 
 ###2015
+[mac study list](https://github.com/coderyi/blog/blob/master/articles%2F2015%2F0815_2_macosx_study_list.md)
+
+[python3常用模块](https://github.com/coderyi/blog/blob/master/articles%2F2015%2F0815_1_python3_modules.md)
+
 [python dev list](https://github.com/coderyi/blog/blob/master/articles/2015/0810_python_dev_list.md)
 
 note:[python3的函数式编程](https://github.com/coderyi/blog/blob/master/articles/2015/0807_2_python3_functional_programming.md)
