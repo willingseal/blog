@@ -1,6 +1,8 @@
 ##blog
 
 ###2015
+[北方夏游](https://github.com/coderyi/blog/blob/master/articles/2015/0815_3_north_summer_tour.md)
+
 [mac study list](https://github.com/coderyi/blog/blob/master/articles%2F2015%2F0815_2_macosx_study_list.md)
 
 [python3常用模块](https://github.com/coderyi/blog/blob/master/articles%2F2015%2F0815_1_python3_modules.md)
