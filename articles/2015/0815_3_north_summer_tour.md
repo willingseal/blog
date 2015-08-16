@@ -12,3 +12,15 @@
 我欣赏那样的状态，随风而行，游天地之无穷，至人无己，神人无功，圣人无名，这是庄子说的。
 
 2015.08.15
+
+[《开讲啦》 20150711 蔡澜：人生真好玩儿](http://tv.cntv.cn/video/VSET100173543987/a8deba2a6cd346b3935811240086a29b)
+
+<img src="http://d.hiphotos.baidu.com/baike/g%3D0%3Bw%3D268/sign=57dc7a4419d8bc3ed60803c1f5b69428/279759ee3d6d55fb89a6b9586d224f4a20a4dd68.jpg" height="300" width="200" />
+
+<img src="http://c.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=bf28856c1038534398c28f73f27adb1b/c2cec3fdfc0392455c8a970f8794a4c27d1e25f6.jpg" height="241" width="207" />
+
+
+<img src="http://a.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=9be9d78b8e1001e95a311c5dd9671089/e7cd7b899e510fb33701e9f5da33c895d1430cb3.jpg" height="241" width="198" />
+
+
+<img src="http://g.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=3fb7e4e76c81800a7ae8815cd05c589f/8601a18b87d6277f70c02f5028381f30e824fc8c.jpg" height="241" width="241" />
