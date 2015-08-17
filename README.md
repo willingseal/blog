@@ -63,9 +63,51 @@ note:[python3的数据类型](https://github.com/coderyi/blog/blob/master/articl
 
 [计算机网络的五层协议体系](https://github.com/coderyi/blog/blob/master/articles/2014/0706_network.md)
 
+###Contact
+
+邮箱：coderyi@foxmail.com
+
+wechat: yiying517576002
+
+github: [coderyi](https://github.com/coderyi)
+
+
+stackoverflow:[coderyi](https://stackoverflow.com/users/4834182/coderyi)
+
+LinkedIn:[coderyi](https://www.linkedin.com/in/yingyi1)
+
+twitter:[coderyi9](https://twitter.com/coderyi9)
+
+quora:[coderyi](https://www.quora.com/Coder-Yi/)
+
+skype: coderyi
+
+新浪微博： [coderyi9](http://weibo.com/273311457)
+
+知乎： [coderyi9](http://www.zhihu.com/people/coderyi9)
+
 
 ######博客内容未经本人授权，禁止任何商业用途。
 ######友情提醒，尽量不要fork，欢迎对我的blog提交issue，转载请保留原文链接以及作者署名。
+
+写字楼里写字间，写字间里程序员；
+
+程序人员写程序，又拿程序换酒钱。
+
+酒醒只在网上坐，酒醉还来网下眠；
+
+酒醉酒醒日复日，网上网下年复年。
+
+但愿老死电脑间，不愿鞠躬老板前；
+
+奔驰宝马贵者趣，公交自行程序员。
+
+别人笑我忒疯癫，我笑自己命太贱；
+
+不见满街漂亮妹，哪个归得程序员？
+
+
+![](http://www.coderyi.com/wp-content/uploads/2015/04/51zfb.jpg)
 
 
 
