@@ -141,4 +141,4 @@ AVAudioPlayer类是音频播放的类，一个AVAudioPlayer只能播放一个音
     return 1;
 }
 </pre>
-关于这篇文章，我也写了一个Demo,<a title="PLAudio" href="https://github.com/coderyi/PLAudio">PLAudio</a>，转载请附原文地址<a title="http://www.coderyi.com/archives/722" href="http://www.coderyi.com/archives/722">http://www.coderyi.com/archives/722</a> 。
+关于这篇文章，我也写了一个Demo,<a title="PLAudio" href="https://github.com/coderyi/PLAudio">PLAudio</a>，转载请附原文地址<a title="https://github.com/coderyi/blog/blob/master/articles/2015/0608_audio.md" href="https://github.com/coderyi/blog/blob/master/articles/2015/0608_audio.md">https://github.com/coderyi/blog/blob/master/articles/2015/0608_audio.md</a> 。
