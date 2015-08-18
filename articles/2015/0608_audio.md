@@ -26,6 +26,8 @@ Core Audio 是IOS和 MAC 的关于数字音频处理的基础，它提供应用�
 
 Core Audio有5个框架：1.Core Audio.framework，2.AudioToolbox.framework，3.AudioUnit.framework ，4.AVFoundation.framework，5.OpenAL.framework。
 
+[参考:iOS框架和服务](http://blog.csdn.net/GooHong/article/details/28911301)
+
 Core Audio.framework并不提供服务，仅提供其他框架可以使用的头文件和数据类型。这其中AVFoundation 框架 (AVFoundation.framework)提供一组播放、记录和管理声音和视频内容的Objective-C类，因此下面我就简单介绍一下他就可以了。
 
 
