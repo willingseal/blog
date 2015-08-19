@@ -95,7 +95,7 @@ skype: coderyi
 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
 ).
 
-all rights reserved.
+copyright (c) 2015 coderyi.all rights reserved.
 <pre>
 
 			写字楼里写字间，写字间里程序员；
