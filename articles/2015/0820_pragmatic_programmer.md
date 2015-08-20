@@ -1,16 +1,17 @@
 ###The Pragmatic Programmer：注重实效的程序员
 
-#######读《程序员修炼之道：从小工到专家 》
+######读《程序员修炼之道：从小工到专家 》
 
-#######The Pragmatic Programmer：From Journeyman to Master
+######The Pragmatic Programmer：From Journeyman to Master
 
 
 《he Pragmatic Programmer》我觉得强调了一个少有的观点，注重实效，对于追求理想主义，自由主义的程序员来说这是很少见的，但读完之后发现它的确是程序员该有的精神。
 
 ######什么是实效？
-<pre>
+----------------
 “这正是注重实效（pragmatism）登场的地方。你不应该局限于任何特定的技术，而是应该拥有足够广博的背景和经验基础，以让你能在特定情况下选择好的解决方案。你的背景源自对计算机科学的基本原理的理解，而你的经验来自广泛的实际项目。理论与实践的结合使你强大起来。”
-</pre>
+--------
+
 来自作者序言
 
 
