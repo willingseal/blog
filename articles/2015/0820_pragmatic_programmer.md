@@ -139,9 +139,9 @@ Fred不知道代码为什么失败，因为他一开始就不知道它为什么�
 
 我仅仅说一下我有限的工具。
 
-在所有的工具中，编辑器是最像手的，我经历过word，印象笔记，xcode，atom，比较了emacs，vim等，最终选用了sublime text，word太复杂，印象笔记在我看来经过网络的东西都是不安全的，xcode根本不是编辑器，atom根sublime最像，但是太慢了，emacs，vim对于我来说不会用，最终选用了利于工程管理，简单，扩展性强的sublime text。
+在所有的工具中，编辑器是最像手的，我经历过Word，印象笔记，Xcode，Atom，比较了emacs，vim等，最终选用了sublime text，word太复杂，印象笔记在我看来经过网络的东西都是不安全的，xcode根本不是编辑器，atom根sublime最像，但是太慢了，emacs，vim对于我来说不会用，最终选用了利于工程管理，简单，扩展性强的sublime text。
 
-markdown同样是一个好的工具。
+Markdown同样是一个好的工具。
 
 homebrew则是mac平台的强大的包管理工具，安装软件的神器。
 
@@ -149,10 +149,12 @@ homebrew则是mac平台的强大的包管理工具，安装软件的神器。
 
 Git的工具，SourceTree。
 
-Xcode ，主力mac平台IDE。
+Xcode ，主力Mac平台IDE。
 
 
 最后的推荐只能说是狗尾续貂，希望你成为更好的程序员。
+
+转载请附原文链接[https://github.com/coderyi/blog/blob/master/articles/2015/0820_pragmatic_programmer.md](https://github.com/coderyi/blog/blob/master/articles/2015/0820_pragmatic_programmer.md)
 
 
 
