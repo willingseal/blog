@@ -1,6 +1,8 @@
 ##blog
 
 ###2015
+读书笔记:[The Pragmatic Programmer：注重实效的程序员](https://github.com/coderyi/blog/blob/master/articles/2015/0820_pragmatic_programmer.md)
+
 [北方夏游](https://github.com/coderyi/blog/blob/master/articles/2015/0815_3_north_summer_tour.md)
 
 [mac study list](https://github.com/coderyi/blog/blob/master/articles%2F2015%2F0815_2_macosx_study_list.md)
