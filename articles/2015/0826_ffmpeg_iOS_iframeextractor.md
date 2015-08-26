@@ -324,3 +324,9 @@ initError:
 [ffmpeg 官网](https://www.ffmpeg.org/)
 
 [FFmpeg GitHub source code](https://github.com/FFmpeg/FFmpeg)
+
+
+作者 ：[coderyi](https://github.com/coderyi/blog)
+
+转载请加原文链接:[https://github.com/coderyi/blog/blob/master/articles/2015/0826_ffmpeg_iOS_iframeextractor.md](https://github.com/coderyi/blog/blob/master/articles/2015/0826_ffmpeg_iOS_iframeextractor.md)
+
