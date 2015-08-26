@@ -306,7 +306,9 @@ initError:
 	return image;
 }
 </pre>
+
 ##Reference 
+[ElevenPlayer](https://github.com/coderyi/Eleven): 这是我用ffmpeg写的iOS万能播放器。
 
 [iOS配置FFmpeg框架](http://cnbin.github.io/blog/2015/05/19/iospei-zhi-ffmpegkuang-jia/)
 
