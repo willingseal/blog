@@ -10,6 +10,7 @@ FFmpeg是一套可以用来记录、转换数字音频、视频，并能将其�
 "FFmpeg"这个单词中的"FF"指的是"Fast Forward"。
 
 ######ffmpeg支持的格式
+
 ASF
 
 AVI
