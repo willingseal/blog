@@ -167,7 +167,7 @@ initError:
 	[self release];
 	return nil;
 }
-<pre>
+</pre>
 
 ######sourceWidth和sourceHeight方法
 获取屏幕的宽和高
