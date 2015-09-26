@@ -73,14 +73,11 @@ note:[python3的数据类型](https://github.com/coderyi/blog/blob/master/articl
 
 邮箱：coderyi@foxmail.com
 
-wechat: yiying517576002
-
 github: [coderyi](https://github.com/coderyi)
 
 
 stackoverflow:[coderyi](https://stackoverflow.com/users/4834182/coderyi)
 
-LinkedIn:[coderyi](https://www.linkedin.com/in/yingyi1)
 
 twitter:[coderyi9](https://twitter.com/coderyi9)
 
