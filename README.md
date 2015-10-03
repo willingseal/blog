@@ -83,8 +83,6 @@ twitter:[coderyi9](https://twitter.com/coderyi9)
 
 quora:[coderyi](https://www.quora.com/Coder-Yi/)
 
-skype: coderyi
-
 新浪微博： [coderyi9](http://weibo.com/273311457)
 
 知乎： [coderyi9](http://www.zhihu.com/people/coderyi9)
