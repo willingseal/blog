@@ -108,7 +108,7 @@ and +[Class instancesRespondToSelector:] is implemented like this:
 + (BOOL)instancesRespondToSelector:(SEL)aSelector {
     return class_respondsToSelector(self, aSelector);
 }</pre>
-(I used [Hopper(MAC下的反编译软件)](http://www.hopperapp.com/) on CoreFoundation to figure this out.)
+I used [Hopper-MAC下的反编译软件](http://www.hopperapp.com/) on CoreFoundation to figure this out.
 
 So, there's basically no difference. However, you can override respondsToSelector: in your own class to return YES or NO on a per-instance basis (NSProxy does this). You can't do that with instancesRespondToSelector:.
 

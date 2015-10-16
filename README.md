@@ -1,7 +1,7 @@
 ##blog
 
 ###2015
-[NSObject分析笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1016_NSObject)
+[NSObject分析笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1016_NSObject.md)
 
 [How to use DOUAudioStreamer](https://github.com/coderyi/blog/blob/master/articles/2015/0923_HowtouseDOUAudioStreamer.md)
 
