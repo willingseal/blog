@@ -109,14 +109,14 @@ and +[Class instancesRespondToSelector:] is implemented like this:
     return class_respondsToSelector(self, aSelector);
 }</pre>
 
-I used [HopperMAC下的反编译软件](http://www.hopperapp.com/) on CoreFoundation to figure this out.
+I used Hopper on CoreFoundation to figure this out.
 
 
 So, there's basically no difference. However, you can override respondsToSelector in your own class to return YES or NO on a per-instance basis (NSProxy does this). You can't do that with instancesRespondToSelector.
 
 
 
-[http://stackoverflow.com/questions/11574478/what-is-the-difference-between-instancesrespondtoselector-and-respondstoselector](http://stackoverflow.com/questions/11574478/what-is-the-difference-between-instancesrespondtoselector-and-respondstoselector)
+http://stackoverflow.com/questions/11574478/what-is-the-difference-between-instancesrespondtoselector-and-respondstoselector
 
 
 ######Testing Protocol Conformance
@@ -219,13 +219,13 @@ Overridden by subclasses to forward messages to other objects.
 http://segmentfault.com/a/1190000000685432
 
 在oc里面，发送消息给一个并不响应这个方法的对象，是合法的。apple设计这种消息转发机制的原因是用来模拟多重继承（oc原生是不支持多重继承的）。消息转发的大致过程是：
-<pre>
+
 1、查找该类及其父类的cache和方法分发表，找不到的情况下执行第2步。
 2、执行+(BOOL)resolveInstanceMethod:(SEL)aSEL方法。
 3、接下来 Runtime 会调用 – (id)forwardingTargetForSelector:(SEL)aSelector 方法。
 这就给了程序员第二次机会，如果你没办法在自己的类里面找到替代方法，你就重载这个方法，然后把消息转给其他的Object。
 4、最后，Runtime 会调用 – (void)forwardInvocation:(NSInvocation *)anInvocation 这个方法。NSInvocation 其实就是一条消息的封装。如果你能拿到 NSInvocation，那你就能修改这条消息的 target, selector 和 arguments。
-
+<pre>
 void fooMethod(id obj, SEL _cmd)
 {
  NSLog(@"Doing Foo");
