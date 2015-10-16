@@ -111,7 +111,10 @@ and +[Class instancesRespondToSelector:] is implemented like this:
 <pre>
 I used Hopper on CoreFoundation to figure this out.
 
-So, there's basically no difference. However, you can override respondsToSelector in your own class to return YES or NO on a per-instance basis (NSProxy does this). You can't do that with instancesRespondToSelector.
+So, there's basically no difference. 
+However, you can override respondsToSelector in your own class to return YES or NO 
+on a per-instance basis (NSProxy does this). 
+You can't do that with instancesRespondToSelector.
 </pre>
 
 
