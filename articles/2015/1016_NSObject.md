@@ -114,7 +114,10 @@ I used [Hopper:MAC下的反编译软件](http://www.hopperapp.com/) on CoreFound
 
 So, there's basically no difference. However, you can override respondsToSelector: in your own class to return YES or NO on a per-instance basis (NSProxy does this). You can't do that with instancesRespondToSelector:.
 
+
+
 http://stackoverflow.com/questions/11574478/what-is-the-difference-between-instancesrespondtoselector-and-respondstoselector
+
 
 ######Testing Protocol Conformance
 <pre>
