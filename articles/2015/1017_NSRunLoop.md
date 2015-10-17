@@ -1,5 +1,5 @@
 ###NSRunLoop学习笔记
-
+https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSRunLoop_Class/
 #####Accessing Run Loops and Modes
 
 <pre>
@@ -119,6 +119,13 @@ where shouldKeepRunning is set to NO somewhere else in the program.
 
 Runs the loop once, blocking for input in the specified mode until a given date.
 
+NSRunloop并不真的是一个loop，的apple的文档中 也提到了需要自己写while或者for语句来实现,类似下面：
+<pre>
+while(running){ 
+    [NSRunLoop currentRunLoop]     runMode:NSDefaultRunLoopMode beforeDate:[NSDate distantFuture]];
+}
+</pre>
+
 <pre>
 - (void)runUntilDate:(NSDate *)limitDate
 </pre>
@@ -166,8 +173,6 @@ Cancels all outstanding ordered performs scheduled with a given target.
 Structure of a run loop and its sources
 
 
-![](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/Art/runloop.jpg)
-
 
  Predefined run loop modes:
  
@@ -182,17 +187,29 @@ NSEventTrackingRunLoopMode :Cocoa uses this mode to restrict incoming events dur
 NSRunLoopCommonModes： this set includes the default, modal, and event tracking modes by default.
 
 
-A run loop receives events from two different types of sources. Input sources deliver asynchronous events ，Timer sources deliver synchronous events。
+A run loop receives events from two different types of sources. Input sources deliver asynchronous events, usually messages from another thread or from a different application. Timer sources deliver synchronous events, occurring at a scheduled time or repeating interval. 
 
 除 了 处 理 输 入 源 ， run loops 也 会 生 成 关 于 run loop 行为的 通 知
 (notifications)。注册的 run loop 观察者(run-loop Observers)可以收到这些通知，
 并在线程上面使用它们来做额外的处理。
 
 
+![](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/Art/runloop.jpg)
+
+![](http://images.cnitblog.com/blog/241349/201301/06011637-2e0975908bac4b44bee988074cda1d17.gif)
 
 
 
+[iOS中Run Loop的那些坑](http://www.hrchen.com/2013/07/tricky-runloop-on-ios/):深度好文，指出了NSRunLoop的一些常见疑难问题。
+特别引用坑四
+<pre>
+在使用NSURLConnection或者NSStream时，需要考虑到Run Loop的问题，默认情况下这两个对象生成后都是运行在当前线程的NSDefaultRunLoopMode模式的，如果是在主线程，那么在滚动ScrollView或者TableView时，主线程的Run Loop会运行在UITrackingRunLoopMode模式，那么NSURLConnection或者NSStream的回调就无法运行。因此最好是指定NSURLConnection或NSStream在Run Loop中的运行模式，两者有相同的接口- (void)scheduleInRunLoop:(NSRunLoop *)aRunLoop forMode:(NSString *)mode;来设置NSURLConnection和NSStream的Run Loop以及模式，而且设置的Mode要设置为NSRunLoopCommonModes，因为NSRunLoopCommonModes默认会包含NSDefaultRunLoopMode和UITrackingRunLoopMode，这样无论Run Loop运行在哪个模式，都可以保证NSURLConnection或者NSStream的回调可以被调用。另外如果是在子线程中你设置了自定义的Run Loop模式，还可以用接口CFRunLoopAddCommonMode(runLoopRef, mode)添加到NSRunLoopCommonModes。
 
+不过NSURLConnection的使用有点特殊，必须使用它的designated initializer - (id)initWithRequest:(NSURLRequest *)request delegate:(id)delegate startImmediately:(BOOL)startImmediately生成NSURLConnection对象，而且第三个参数是否立刻启动NSURLConnection要设置为NO，之后再用- (void)scheduleInRunLoop:(NSRunLoop *)aRunLoop forMode:(NSString *)mode;设置Run Loop与模式，再调用[NSURLConnectionObject start]启动。如果是其他接口生成NSURLConnection，用- (void)scheduleInRunLoop:(NSRunLoop *)aRunLoop forMode:(NSString *)mode;设置Run Loop和mode都不会起作用。
+</pre>
+具体可以查看AFNetworking的实现
+
+http://www.hrchen.com/2013/06/multi-threading-programming-of-ios-part-1/
 
 
 
