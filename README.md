@@ -1,11 +1,12 @@
 ##blog
 
 ###2015
+[NSThread学习笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1018_NSThread.md)
 [NSRunLoop学习笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1017_NSRunLoop.md)
 
 [NSArray学习笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1016_2_NSArray.md)
 
-[NSObject分析笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1016_1_NSObject.md)
+[NSObject学习笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1016_1_NSObject.md)
 
 [How to use DOUAudioStreamer](https://github.com/coderyi/blog/blob/master/articles/2015/0923_HowtouseDOUAudioStreamer.md)
 

@@ -2,6 +2,19 @@
 
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSArray_Class/
 
+关于Foundation框架的源码可以从GNUstep Base,这里就可以点击下载 
+
+ftp://ftp.gnustep.org/pub/gnustep/core/gnustep-base-1.24.8.tar.gz
+
+<pre>
+@interface NSArray<__covariant ObjectType> : NSObject
+
+@end
+</pre>
+
+上面就是NSArray的定义，<ObjectType>表示自定义泛型，__covariant 表示子类型可以强转到父类型（里氏替换原则）
+
+[Objective-C很有用的特性](http://honglu.me/2015/09/16/Objective-C%E5%BE%88%E6%9C%89%E7%94%A8%E7%9A%84%E7%89%B9%E6%80%A7/)  有解释泛型和covariant
 ######Sending Messages to Elements
 
 <pre>

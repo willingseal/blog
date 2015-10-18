@@ -1,5 +1,12 @@
 ###NSRunLoop学习笔记
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSRunLoop_Class/
+
+关于Foundation框架的源码可以从GNUstep Base,这里就可以点击下载 
+
+ftp://ftp.gnustep.org/pub/gnustep/core/gnustep-base-1.24.8.tar.gz
+
+
+
 #####Accessing Run Loops and Modes
 
 <pre>

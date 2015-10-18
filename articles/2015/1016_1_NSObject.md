@@ -1,4 +1,4 @@
-##NSObject分析笔记
+##NSObject学习笔记
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/
 
 NSObject主要分布在<objc/NSObject.h>和Foundation的NSObject.h以及一些其他的类中，<objc/NSObject.h>定义了NSObject类和NSObject协议，其他文件有很多的category，关于usr/include的objc实现文件苹果开源在
