@@ -1,6 +1,6 @@
 ##NSThread学习笔记
 
-https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSThread_Class/#//apple_ref/occ/instm/NSRunLoop/run
+https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSThread_Class/
 
 
 [Threading Programming Guide-中文版](http://www.dreamingwish.com/article/ios-multi-threaded-programming-guide-directory.html)
