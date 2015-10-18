@@ -170,7 +170,6 @@ Cancels all outstanding ordered performs scheduled with a given target.
 
 [Apple-Threading Programming Guide-Run Loops-中文](http://www.dreamingwish.com/article/ios-multithread-program-runloop-the.html)
 
-Structure of a run loop and its sources
 
 
 
@@ -193,6 +192,7 @@ A run loop receives events from two different types of sources. Input sources de
 (notifications)。注册的 run loop 观察者(run-loop Observers)可以收到这些通知，
 并在线程上面使用它们来做额外的处理。
 
+Structure of a run loop and its sources
 
 ![](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/Art/runloop.jpg)
 
