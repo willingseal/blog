@@ -8,4 +8,12 @@
 Mora有两个女儿，一个11岁，一个9岁，他们住在旧金山，祖辈从墨西哥来，周四后他准备去欧洲了，他自己说是一个世界旅行者，有时候也会感觉累，但他确实喜欢旅行。由于我的英语水平仅限于说一句“My English is very poor”，他的汉语水平也仅限于“这对于我来说是一个新的单词”，两个的交流可想而知，very bad。期待双方语言进步的那一天吧！希望有机会再见！
 
 See you again!
+ 
+2015.10.20
+
+<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/2_meitu_1.jpg" width="243" height="182">
+
+
+<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/3.jpg" width="243" height="182">
+
 
