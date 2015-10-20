@@ -11,9 +11,11 @@ Mora有两个女儿，一个11岁，一个9岁，他们住在旧金山，祖辈�
 See you again!
  
 2015.10.20
+
 [Saul Mora GitHub](https://github.com/casademora)
 
 [MagicalRecord GitHub](https://github.com/magicalpanda/magicalrecord)
+
 <img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/2_meitu_1.jpg" width="486" height="365">
 
 
