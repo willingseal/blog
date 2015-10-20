@@ -11,9 +11,9 @@ See you again!
  
 2015.10.20
 
-<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/2_meitu_1.jpg" width="243" height="182">
+<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/2_meitu_1.jpg" width="486" height="365">
 
 
-<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/3.jpg" width="243" height="182">
+<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/3.jpg" width="486" height="365">
 
 
