@@ -1,6 +1,9 @@
 ##blog
 
 ###2015
+
+[不算差的见面 - 与MagicalRecord作者](https://github.com/coderyi/blog/blob/master/articles/2015/1020_notbadmeet.md)
+
 [NSThread学习笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1018_NSThread.md)
 
 [NSRunLoop学习笔记](https://github.com/coderyi/blog/blob/master/articles/2015/1017_NSRunLoop.md)
