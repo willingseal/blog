@@ -390,6 +390,58 @@ Returns the operation queue associated with the main thread.
 </pre>
 The block to execute from the operation object. The block should take no parameters and have no return value.
 
+
+它的用法如下：
+<pre>
+NSOperationQueue *myQueue = [[NSOperationQueue alloc] init];
+[myQueue addOperationWithBlock:^{
+
+   // Background work
+
+    [[NSOperationQueue mainQueue] addOperationWithBlock:^{
+        // Main thread work (UI usually)
+    }];
+}];
+</pre>
+如果上面的操作用GCD来做的话，我们可能更面熟：
+<pre>
+dispatch_async(dispatch_get_global_queue( DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^(void)
+             {
+              // Background work            
+             dispatch_async(dispatch_get_main_queue(), ^(void)
+              {
+                   // Main thread work (UI usually)                          
+              });
+});
+</pre>
+
+<pre>
+__block NSData *dataFromServer = nil;
+NSBlockOperation *downloadOperation = [[NSBlockOperation alloc] init];
+__weak NSBlockOperation *weakDownloadOperation = downloadOperation;
+
+[weakDownloadOperation addExecutionBlock:^{
+ // Download your stuff  
+ // Finally put it on the right place: 
+ dataFromServer = ....
+ }];
+
+NSBlockOperation *saveToDataBaseOperation = [[NSBlockOperation alloc] init];
+__weak NSBlockOperation *weakSaveToDataBaseOperation = saveToDataBaseOperation;
+
+ [weakSaveToDataBaseOperation addExecutionBlock:^{
+ // Work with your NSData instance
+ // Save your stuff
+ }];
+
+[saveToDataBaseOperation addDependency:downloadOperation];
+
+[myQueue addOperation:saveToDataBaseOperation];
+[myQueue addOperation:downloadOperation];
+</pre>
+http://stackoverflow.com/questions/19569244/nsoperation-and-nsoperationqueue-working-thread-vs-main-thread
+
+
 <pre>
 @property(readonly, copy) NSArray <__kindof NSOperation *> *operations
 
