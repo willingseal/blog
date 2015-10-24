@@ -12,6 +12,6 @@ Anders说“Javascript is broken, but it isn't broken enough. TypeScript is supe
 
 我后来问了一个幼稚的问题，“你所处的时候有很多大师，也有很多机会，有人创造了C，有人创造了C++，有人创造了Linux，Python，Git，Android，你创造了C#，Delphi，但是现在机会好像看不到，很多外国人认为中国没有好的程序员，你觉得我们创造一个伟大软件的机会在哪里？我们中国程序员的突破口在哪里？”。他大概说，编程是一件有趣的事情，其实只要你想做你就能够做好它。he love write code，一个人做任何一件事花上1万个小时就一定能做好它，只要投入时间和兴趣，你也能成为大师，不限语言，技术，地域。中国有很多伟大的程序员，微软就有很多中国同事。
 
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/1024_andershejlsberg_c%23/2_meitu_1.jpg)
 
-
-
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/1024_andershejlsberg_c%23/1.jpg)
