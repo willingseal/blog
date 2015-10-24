@@ -1,4 +1,4 @@
-#面对Anders Hejlsberg
+#面对大师 － Anders Hejlsberg
 
 2015.10.24
 
@@ -10,7 +10,7 @@
 
 Anders说“Javascript is broken, but it isn't broken enough. TypeScript is superset of Javascript”，伟大的程序员都喜欢这么说，他说TypeScript会更加利于大型项目。Anders这个人，用他自己的话说，就是“fun”，一个有趣的人，今天讲话的时候一直自带笑声，如此开心的编码状态真是非常棒！
 
-我后来问了一个问题，看起来不是个成熟的问题，“你所处的时代有很多大师，也有很多机会，有人创造了C，有人创造了C++，有人创造了Linux，Python，Git，Android，然后你创造了C#，Delphi，但是现在机会好像看不到，很多外国人认为中国没有好的程序员，我们中国程序员的机会在哪里？你觉得我们创造一个伟大软件的机会在哪里？”。他大概说，编程是一件有趣的事情，其实只要你想做你就能够做好它。he love write code，一个人做任何一件事花上1万个小时就一定能做好它，只要投入时间和兴趣，你也能成为大师，不限语言，技术，地域。中国有很多伟大的程序员，微软就有很多中国同事。
+我后来问了一个问题，看起来不是个成熟的问题，“你所处的时代有很多大师，也有很多机会，有人创造了[C](https://en.wikipedia.org/wiki/C)，有人创造了[C++](https://en.wikipedia.org/wiki/C%2B%2B)，有人创造了[Linux](https://github.com/torvalds/linux)，[Python](https://www.python.org/)，[Git](https://git-scm.com/)，[Android](https://zh.wikipedia.org/wiki/Android)，然后你创造了<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a>，<a href="https://en.wikipedia.org/wiki/Delphi_(programming_language)">Delphi</a>，但是现在机会好像看不到，很多外国人认为中国没有好的程序员，我们中国程序员的机会在哪里？你觉得我们创造一个伟大软件的机会在哪里？”。他大概说，编程是一件有趣的事情，其实只要你想做你就能够做好它。he love write code，一个人做任何一件事花上1万个小时就一定能做好它，只要投入时间和兴趣，你也能成为大师，不限语言，技术，地域。中国有很多伟大的程序员，微软就有很多中国同事。
 
 <img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/1024_andershejlsberg_c%23/2_meitu_1.jpg" width="535" height="401">
 <img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/1024_andershejlsberg_c%23/1.jpg" width="300" height="401">
