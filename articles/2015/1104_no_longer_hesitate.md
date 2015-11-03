@@ -1,10 +1,10 @@
 ##不再犹豫 - TechCrunch Hackathon 日记
 2015.11.04
 
-［不再犹豫 - beyond(网易云音乐)］(http://music.163.com/#/m/song?id=347597)
+［不再犹豫 - beyond 网易云音乐］(http://music.163.com/#/m/song?id=347597)
 ####平庸
 
-上周末第一次参加了黑客马拉松，一个人去的，机缘巧合之下遇到一个幸运的队伍，两天一夜的黑客松收获了很多。很喜欢长头发的外国人，邻桌有一个在北交大读书的法国团队，有一个很不错的产品[uCar](https://gitcafe.com/BinLi/uCar)，“show Car's info on ubuntu-phone”，结合了当天的Ubuntu和PEUGEOT的两个主题，国内开发Ubuntu应用的人是很少的，他们是真正的黑客。[ParkingAssistant](https://gitcafe.com/NextInnovationLab/ParkingAssistant)团队是一个HTML5的全平台停车助手，能够找附近的停车场和自己的停车位，结合google maps和MongoDB等技术，我觉得在技术表现也是不错的，那天跟他们的一位成员聊天，得知他是google的工程师，欣喜之态不甚言表。[demo address](http://ashora.gitcafe.io/#/lg)。
+上周末第一次参加了黑客马拉松，一个人去的，机缘巧合之下遇到一个幸运的队伍，两天一夜的黑客松收获了很多。很喜欢长头发的外国人，邻桌有一个在北交大读书的法国团队，有一个很不错的产品[uCar](https://gitcafe.com/BinLi/uCar)，“show Car's info on ubuntu-phone”，结合了当天的Ubuntu和PEUGEOT的两个主题，国内开发Ubuntu应用的人是很少的，他们是真正的黑客。[ParkingAssistant](https://gitcafe.com/NextInnovationLab/ParkingAssistant)团队是一个HTML5的全平台停车助手，能够找附近的停车场和自己的停车位，结合google maps和MongoDB等技术，我觉得在技术表现也是不错的，那天跟他们的一位成员聊天，得知他是google的工程师，欣喜之态不甚言表，[demo address](http://ashora.gitcafe.io/#/lg)。
 
 台湾人讲话声音总是那么好听，像太平洋的风一下，徐徐而来，但我不喜欢做作的人，不过台湾团队的刘翔华却改了我的想法。他们选择了Ubutun的主题，他们的SnapChirp应该是通过HTML5实现了一个通过声波来判断两个设备之间的距离，非常棒的技术，而且可应用性也比较高，他们也拿到了Ubuntu主题的冠军。
 
