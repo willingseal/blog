@@ -1,6 +1,9 @@
 ##blog
 
 ###2015
+
+[不再犹豫 - TechCrunch Hackathon 日记](https://github.com/coderyi/blog/blob/master/articles/2015/1104_no_longer_hesitate.md)
+
 [面对大师 － Anders Hejlsberg](https://github.com/coderyi/blog/blob/master/articles/2015/1024_face_anders_hejlsberg.md)
 
 [不算差的见面 - 与MagicalRecord作者](https://github.com/coderyi/blog/blob/master/articles/2015/1020_notbadmeet.md)
