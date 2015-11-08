@@ -1,7 +1,7 @@
 ##blog
 
 ###2015
-[GitHub前50名的网络相关库](https://github.com/coderyi/blog/blob/master/articles/2015/1108_Network_Rep_Ranking.md)
+[GitHub前50名的Objective-C网络相关库](https://github.com/coderyi/blog/blob/master/articles/2015/1108_Network_Rep_Ranking.md)
 
 [不再犹豫 - TechCrunch Hackathon 日记](https://github.com/coderyi/blog/blob/master/articles/2015/1104_no_longer_hesitate.md)
 
