@@ -138,8 +138,8 @@ copyright (c) 2015 coderyi.all rights reserved.
 			不见满街漂亮妹，哪个归得程序员？
 </pre>
 
-![](http://www.coderyi.com/wp-content/uploads/2015/04/51zfb.jpg)
+如果觉得还不错，赏点酒钱！
 
-
+<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/jiuqian2.png" width="200" height="200">  <img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/jiuqian1.png" width="200" height="200">
 
 
