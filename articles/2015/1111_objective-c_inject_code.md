@@ -1,5 +1,7 @@
 ##Objective-C代码注入－拦截NSURLConnection的消息
 
+2015.11.11
+
 #####混淆一个方法
 
 <pre>
@@ -147,6 +149,9 @@ IMP implementation = imp_implementationWithBlock((id)([cls instancesRespondToSel
 
 因为class_addMethod时候需要关于方法的描述，所以需要NSURLConnectionDataDelegate中connection:willSendRequest:redirectResponse:的方法描述，可以通过函数protocol_getMethodDescription获得，关方法的实现block需要判断类(这里是ViewController实现了delegate)是否实现该方法，如果没有实现则到此为止，如果有实现connection:willSendRequest:redirectResponse:方法则需要在拦截到消息之后再把消息发送出去。
 
+以上代码，来自我写的一个Demo,[ObjCInjectCodeDemo](https://github.com/coderyi/iOSDemos/tree/master/ObjCInjectCodeDemo)
+
+我演示的是拦截网络请求，当然你如果需要这方面的功能，可以看看我写的网路调试库,[NetworkEye](https://github.com/coderyi/NetworkEye)
 ####参考链接
 [Apple Objective-C Runtime Reference](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ObjCRuntimeRef/)
 
@@ -156,5 +161,6 @@ IMP implementation = imp_implementationWithBlock((id)([cls instancesRespondToSel
 
 [Objective-C Runtime Programming Guide 中文](http://wenku.baidu.com/view/1e06c9a20029bd64783e2cd1.htm)
 
+转载请附本文链接[https://github.com/coderyi/blog/blob/master/articles/2015/1111_objective-c_inject_code.md](https://github.com/coderyi/blog/blob/master/articles/2015/1111_objective-c_inject_code.md)
 
 
