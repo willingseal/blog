@@ -1,6 +1,8 @@
 (译)GCDWebServer概述－基于GCD的轻量级的HTTP服务器
 ========
 
+英文原文链接[https://github.com/swisspol/GCDWebServer](https://github.com/swisspol/GCDWebServer)
+
 11.12
 
 [![Build Status](https://travis-ci.org/swisspol/GCDWebServer.svg?branch=master)](https://travis-ci.org/swisspol/GCDWebServer)
