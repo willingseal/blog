@@ -151,7 +151,7 @@ IMP implementation = imp_implementationWithBlock((id)([cls instancesRespondToSel
 
 以上代码，来自我写的一个Demo,[ObjCInjectCodeDemo](https://github.com/coderyi/iOSDemos/tree/master/ObjCInjectCodeDemo)
 
-我演示的是拦截网络请求，当然你如果需要这方面的功能，可以看看我写的网路调试库,[NetworkEye](https://github.com/coderyi/NetworkEye)
+我演示的是拦截网络请求，当然你如果需要这方面的功能，可以看看我写的网路调试库,[NetworkEye](https://github.com/coderyi/NetworkEye)，NetworkEye用的是NSURLProtocol，并不是这个。
 ####参考链接
 [Apple Objective-C Runtime Reference](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ObjCRuntimeRef/)
 
