@@ -1,6 +1,8 @@
 (译)GCDWebServer概述－基于GCD的轻量级的HTTP服务器
 ========
 
+11.12
+
 [![Build Status](https://travis-ci.org/swisspol/GCDWebServer.svg?branch=master)](https://travis-ci.org/swisspol/GCDWebServer)
 [![Version](http://cocoapod-badges.herokuapp.com/v/GCDWebServer/badge.png)](http://cocoadocs.org/docsets/GCDWebServer)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/GCDWebServer/badge.png)](https://github.com/swisspol/GCDWebServer)
@@ -547,4 +549,13 @@ NSString* websitePath = [[NSBundle mainBundle] pathForResource:@"Website" ofType
 GCDWebServer最初是为一个漫画阅读器应用程序[ComicFlow](http://itunes.apple.com/us/app/comicflow/id409290355?mt=8) iPad版编写的。它允许用户连接到他们的iPad与他们的网络浏览器通过WiFi然后上传，下载和整理漫画文件里面的应用程序。
 
 ComicFlow是[完全开源](https://github.com/swisspol/ComicFlow) 的，你可以看到它如何使用GCDWebServer在 [WebServer.h](https://github.com/swisspol/ComicFlow/blob/master/Classes/WebServer.h)和[WebServer.m](https://github.com/swisspol/ComicFlow/blob/master/Classes/WebServer.m)文件。
+
+
+
+
+转载请附原文链接[https://github.com/coderyi/blog/blob/master/articles/2015/1112_GCDWebServer_README.md](https://github.com/coderyi/blog/blob/master/articles/2015/1112_GCDWebServer_README.md)
+
+
+
+
 
